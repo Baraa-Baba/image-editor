@@ -6,7 +6,9 @@ label[for=input-image],label[for=input-overlay-image]{
   border-radius: 1rem;
   margin-bottom: 1rem;
 }
-
+html,body{
+  background-color: whitesmoke;
+}
 .to-style-label{
   height: 20rem;
 }
